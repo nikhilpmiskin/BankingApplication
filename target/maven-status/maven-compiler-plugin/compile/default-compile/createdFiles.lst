@@ -1,0 +1,13 @@
+springbootstarter\bankingObjects\User.class
+springbootstarter\BankingApiApp.class
+springbootstarter\bankingObjects\Amount.class
+springbootstarter\bankingObjects\Account.class
+springbootstarter\exceptions\ErrorDetails.class
+springbootstarter\bankingObjects\Loan.class
+springbootstarter\repositories\UserRepository.class
+springbootstarter\exceptions\GlobalExceptionHandler.class
+springbootstarter\repositories\LoanRepository.class
+springbootstarter\controllers\Controller.class
+springbootstarter\repositories\AccountRepository.class
+springbootstarter\exceptions\ResourceNotFoundException.class
+springbootstarter\SecurityConfig.class
